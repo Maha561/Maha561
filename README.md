@@ -2,14 +2,14 @@
 <h3 align="center">Aspiring Developer | Passionate Learner | Web Development Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&width=435&lines=Believe+yourself+🌟;Sweet+of+success+is+the+best+thing+in+the+entire+world+🍬;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&width=435&lines=Believe+yourself+🌟;Sweet+of+success+is+the+best+thing+in+the+entire+world+🍬;"  >
 </p>
 
 ---
 
 ### 🧠 Currently Learning
-- Full Stack Web Development (HTML, CSS, JavaScript, React)
-- DSA from [GeeksforGeeks](https://auth.geeksforgeeks.org/user/maha561/profile)
+-  Web Development (HTML, CSS, JavaScript, )
+- DSA from [GeeksforGeeks](https://auth.geeksforgeeks.org/user/mahalakshmi8s5u/profile)
 - Git & GitHub for project collaboration
 
 ---
@@ -25,23 +25,13 @@
 ### 📍 Quick Info
 
 - 🔭 I’m currently building small React projects
-- 🧩 Solving problems on GFG: [@maha561](https://auth.geeksforgeeks.org/user/maha561/profile)
+- 🧩 Solving problems on GFG: [@mahalakshmi8s5u](https://auth.geeksforgeeks.org/user/mahalakshmi8s5u/profile)
 - ✨ Exploring UI/UX and frontend frameworks
 - 📫 Reach me: [GitHub](https://github.com/Maha561)
 
 ---
 
-### 🔗 Pinned Projects
-<a href="https://github.com/Maha561/Project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maha561&repo=Project-1&theme=radical" />
-</a>
-<a href="https://github.com/Maha561/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maha561&repo=Portfolio&theme=radical" />
-</a>
 
----
-
-### 🧁 Random Dev Quote
 > _"Believe yourself. Sweet of success is the best thing in the entire world."_  
 
 ---
