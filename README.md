@@ -13,7 +13,7 @@
 
 ### 🔥 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Maha561&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maha561&theme=react-dark)
 
 ---
 
