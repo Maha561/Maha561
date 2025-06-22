@@ -1,34 +1,56 @@
-## Hi there 👋
-# 👋 Hello, I'm Maha
+<h1 align="center">👋 Hello, I'm Maha</h1>
 
-💻 Passionate Programmer | 🌱 Learning Java & DSA | 🚀 GeeksforGeeks Enthusiast
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maha561&show_icons=true&theme=tokyonight)
+<p align="center">
+  💻 Passionate Programmer | 🌱 Learning Java, DSA & Web Development | 🚀 GFG Enthusiast
+</p>
 
 ---
 
-### 🔥 Contribution Graph
+## 📚 Currently Learning
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maha561&theme=react-dark)
-
----
-
-### 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maha561&layout=compact&theme=tokyonight)
+- 🧠 Java & Data Structures  
+- 🌐 Frontend Web Development (HTML, CSS, JavaScript)  
+- ⚛️ React (Coming Soon!)
 
 ---
 
-### 🧠 GeeksforGeeks
+## 📊 GitHub Stats
 
-[![GFG Badge](https://img.shields.io/badge/GeeksforGeeks-Visit%20Profile-green?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/mahalakshmi8s5u/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maha561&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 ---
 
-### 🌟 Personal Quote
+## 🔥 Contribution Graph
 
-> **"Believe yourself. Sweet of success is the best thing in the entire world."** – *Maha*
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maha561&theme=tokyonight" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maha561&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🧠 GeeksforGeeks
+
+<p align="center">
+  <a href="https://auth.geeksforgeeks.org/user/mahalakshmi8s5u/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Visit%20Profile-green?style=for-the-badge&logo=geeksforgeeks" alt="GFG Profile" />
+  </a>
+</p>
+
+---
+
+## 🌟 Personal Quote
+
+<p align="center">
+  <em><strong>"Believe yourself. Sweet of success is the best thing in the entire world."</strong></em><br/>
+  – Maha
+</p>
